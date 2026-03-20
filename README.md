@@ -1,12 +1,21 @@
-# Hi 👋, I'm Karim Hamada
+<h1 align="center">Hi 👋, I'm Karim Hamada</h1>
 
-### Data Scientist | Data Analyst | Automation Engineer | AI Enthusiast
+<h3 align="center">
+Data Scientist | Data Analyst | Automation Engineer | AI Enthusiast
+</h3>
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Data+Analyst;Automation+Engineer;AI+Enthusiast)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Data+Analyst;Automation+Engineer;AI+Enthusiast&center=true&width=500&height=45">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Karim405&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karim405&label=Profile%20views&color=0e75b6&style=flat" />
+  
+  <a href="https://www.linkedin.com/in/karim-hamada/">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-hamada/)
 
 ---
 
