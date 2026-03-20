@@ -94,25 +94,14 @@ D --> D1[Web Scraping]
 D --> D2[Selenium]
 D --> D3[Automation Scripts]
 ```
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karim405&theme=react-dark" />
-</p>
-
----
 
 ## 💡 Random Dev Quote
 
 <p align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Any+unwillingness+to+learn+mathematics+today+can+greatly+restrict+your+possibilities+tomorrow." />
 
-  <br>
+> "AI is the new electricity."
 
-  <b style="color:#ff4d6d;">— Richard Hamming</b>
+**— Andrew Ng**
 
 </p>
 
