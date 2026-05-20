@@ -56,7 +56,7 @@ My focus is not only writing code or creating charts, but also understanding the
   <img src="https://img.shields.io/badge/Chat%20With%20Me-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="https://kairmhamada.lovable.app">
+<a href="[https://kairmhamada.lovable.app](https://karim-hamada.lovable.app)">
   <img src="https://img.shields.io/badge/Open%20Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -152,21 +152,6 @@ My focus is not only writing code or creating charts, but also understanding the
 
 ---
 
-## 📌 Featured Data Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Sales Performance Dashboard
-
-A Power BI dashboard designed to track sales trends, KPIs, revenue performance, and product insights.
-
-**Key Skills:** Power BI, DAX, Data Modeling, Dashboard Design  
-**Value:** Helps stakeholders monitor performance and identify growth opportunities.
-
-</td>
-<td width="50%" valign="top">
 
 ### 🧹 Data Cleaning & EDA Project
 
