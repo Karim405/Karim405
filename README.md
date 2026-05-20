@@ -1,152 +1,358 @@
-<h1 align="center">Hi 👋, I'm Karim Hamada</h1>
+<!-- =========================
+     Professional Data Analyst GitHub Profile README
+     Updated for: Karim Hamada
+     ========================= -->
 
-<h3 align="center">
-Data Scientist | Data Analyst | Automation Engineer | AI Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Data+Analyst;Automation+Engineer;AI+Enthusiast&center=true&width=500&height=45">
-</p>
+# Hi 👋, I'm Karim Hamada  
+### Data Analyst | BI Developer | Python & SQL Enthusiast | Turning Data Into Decisions
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karim405&label=Profile%20views&color=0e75b6&style=flat" />
-  
-  <a href="https://www.linkedin.com/in/karim-hamada/">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Data+Analyst;Business+Intelligence+Developer;Python+%7C+SQL+%7C+Power+BI;Dashboards+%7C+Insights+%7C+Decision+Support" alt="Typing SVG" />
 
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Karim405&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/karim-hamada/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:k1737066@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://kairmhamada.lovable.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
-I’m a Junior Data Scientist passionate about turning data into meaningful insights and intelligent solutions.
-
-I work with Python, pandas, NumPy, and scikit-learn to build data-driven models and solve real-world problems. Recently, I’ve been exploring Generative AI and LLMs to enhance traditional workflows.
-
-I enjoy learning, building projects, and sharing knowledge along the way.
-
----
-
-## 🧠 Tech Stack (Data Science & Data Analysis)
-
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat)
-![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=flat&logo=plotly)
+</div>
 
 ---
 
-### 🤖 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f7931e?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-d00000?style=flat&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat&logo=pytorch)
+<table>
+<tr>
+<td width="62%" valign="top">
+
+## 👨‍💻 About Me
+
+I’m a **Junior Data Analyst** passionate about transforming raw data into clear insights, meaningful dashboards, and practical business recommendations.
+
+I work with **Python, SQL, Excel, and Power BI** to clean, analyze, visualize, and explain data in a way that supports better decision-making.
+
+My focus is not only writing code or creating charts, but also understanding the business question behind the data and presenting results in a simple, useful, and professional way.
+
+### What I Do
+
+- Clean and prepare messy datasets for analysis.
+- Build interactive dashboards using Power BI.
+- Analyze data using Python, Pandas, NumPy, and SQL.
+- Create visual reports that explain trends and patterns.
+- Turn data into insights that help people make smarter decisions.
+
+</td>
+<td width="38%" valign="top">
+
+## 🤖 Karim Data Assistant
+
+> A chatbot-style guide to my profile, projects, and skills.
+
+```text
+Hi, I'm Karim's Data Assistant 👋
+
+Ask me about:
+• Data Analysis projects
+• Power BI dashboards
+• SQL queries
+• Python notebooks
+• Excel reports
+• Freelance availability
+```
+
+<a href="https://wa.link/9ne13x">
+  <img src="https://img.shields.io/badge/Chat%20With%20Me-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://kairmhamada.lovable.app">
+  <img src="https://img.shields.io/badge/Open%20Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧾 Data Processing & NLP
-![NLTK](https://img.shields.io/badge/-NLTK-154f3c?style=flat)
-![spaCy](https://img.shields.io/badge/-spaCy-09a3d5?style=flat)
+<div align="center">
+
+## “Without data, you’re just another person with an opinion.”  
+### — W. Edwards Deming
+
+</div>
 
 ---
 
-### ⚙️ Tools & Environment
-![Jupyter](https://img.shields.io/badge/-Jupyter-f37626?style=flat&logo=jupyter)
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code)
+## 🧠 Core Data Analysis Skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Data Analysis
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-025E8C?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-0B7285?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1864AB?style=for-the-badge)
+![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-1971C2?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-364FC7?style=for-the-badge)
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Visualization & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-FF922B?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-F76707?style=for-the-badge)
+![KPIs](https://img.shields.io/badge/KPI%20Analysis-E8590C?style=for-the-badge)
+
+</td>
+<td width="33%" valign="top">
+
+### 🗄️ Databases
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-495057?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database%20Design-343A40?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tools & Technologies
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Karim405&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karim405&theme=radical)
+<div align="center">
+
+### Programming & Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### BI, Reporting & Spreadsheets
+
+![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+### Databases & Workflow
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-## 📈 Activity Graph
+## 📌 Featured Data Projects
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karim405&theme=react-dark)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Sales Performance Dashboard
+
+A Power BI dashboard designed to track sales trends, KPIs, revenue performance, and product insights.
+
+**Key Skills:** Power BI, DAX, Data Modeling, Dashboard Design  
+**Value:** Helps stakeholders monitor performance and identify growth opportunities.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧹 Data Cleaning & EDA Project
+
+A Python-based analysis project focused on cleaning messy datasets, handling missing values, detecting outliers, and extracting insights.
+
+**Key Skills:** Python, Pandas, NumPy, Matplotlib, Seaborn  
+**Value:** Converts raw data into a reliable format for analysis and reporting.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ SQL Business Analysis
+
+SQL queries for analyzing customers, orders, revenue, and business performance using relational databases.
+
+**Key Skills:** SQL, MySQL, SQL Server, Joins, Aggregations  
+**Value:** Answers business questions directly from structured databases.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Excel Reporting System
+
+An Excel-based reporting solution using formulas, PivotTables, charts, and clean formatting.
+
+**Key Skills:** Excel, PivotTables, Charts, Data Validation  
+**Value:** Provides clear reports for quick decision-making.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔄 My Data Analysis Workflow
+
+```mermaid
+flowchart LR
+    A[Business Question] --> B[Data Collection]
+    B --> C[Data Cleaning]
+    C --> D[Exploratory Data Analysis]
+    D --> E[Visualization]
+    E --> F[Insights]
+    F --> G[Dashboard / Report]
+    G --> H[Decision Support]
+```
 
 ---
 
 ## 🎯 Current Focus
 
 ```mermaid
-graph LR
+graph TD
+    A[Karim's Data Analyst Journey] --> B[Advanced Excel]
+    A --> C[SQL for Business Analysis]
+    A --> D[Power BI Dashboards]
+    A --> E[Python Data Analysis]
 
-A[Karim's Journey] --> B[Data Science]
-A --> C[Machine Learning]
-A --> D[Automation & Scraping]
+    B --> B1[PivotTables]
+    B --> B2[Power Query]
+    B --> B3[Reports]
 
-B --> B1[Data Analysis]
-B --> B2[Visualization]
-B --> B3[EDA]
+    C --> C1[Joins]
+    C --> C2[Aggregations]
+    C --> C3[Business Queries]
 
-C --> C1[Regression]
-C --> C2[Classification]
-C --> C3[Model Building]
+    D --> D1[DAX]
+    D --> D2[Data Modeling]
+    D --> D3[Interactive Dashboards]
 
-D --> D1[Web Scraping]
-D --> D2[Selenium]
-D --> D3[Automation Scripts]
+    E --> E1[Pandas]
+    E --> E2[EDA]
+    E --> E3[Visualization]
 ```
 
-## 💡 Random Dev Quote
+---
 
-<p align="center">
+## 📊 GitHub Analytics
 
-> "AI is the new electricity."
+<div align="center">
 
-**— Andrew Ng**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Karim405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Karim405&theme=tokyonight&hide_border=true" />
 
-</p>
+<br/>
+<br/>
 
-## 🤝 Let's Connect!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim405&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karim405&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🚀 Services I Can Help With
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 📊 Dashboards
+Power BI dashboards, KPI reports, and interactive business visuals.
+
+</td>
+<td width="25%" align="center">
+
+### 🧹 Data Cleaning
+Cleaning, formatting, preprocessing, and organizing raw datasets.
+
+</td>
+<td width="25%" align="center">
+
+### 🗄️ SQL Analysis
+Writing queries to extract, join, filter, and summarize business data.
+
+</td>
+<td width="25%" align="center">
+
+### 📑 Excel Reports
+Professional Excel sheets, PivotTables, charts, and reports.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
 
 <a href="mailto:k1737066@gmail.com">
-  <img src="https://img.shields.io/badge/Email-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/karim-hamada/">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/Karim405">
-  <img src="https://img.shields.io/badge/GitHub-FOLLOW-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://kairmhamada.lovable.app">
-  <img src="https://img.shields.io/badge/Portfolio-VISIT-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-
 <a href="https://wa.link/9ne13x">
-  <img src="https://img.shields.io/badge/WhatsApp-CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
 <a href="https://www.youtube.com/@Fekr_Barmagy/videos">
-  <img src="https://img.shields.io/badge/YouTube-WATCH-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
 <a href="https://www.facebook.com/profile.php?id=61578531091971">
-  <img src="https://img.shields.io/badge/Facebook-FOLLOW-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-💌 Open to collaborations, freelance projects, and exciting opportunities!
-</p>
+<div align="center">
 
----
+### 💌 Open to freelance projects, collaborations, internships, and data analysis opportunities.
 
-<p align="center">
-⭐ Show some love by starring my repositories!
-</p>
+### ⭐ If you like my work, consider starring my repositories.
+
+</div>
