@@ -16,10 +16,10 @@
 <a href="https://www.linkedin.com/in/karim-hamada/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:k1737066@gmail.com">
+<a href="mailto:karimhamada221@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://kairmhamada.lovable.app">
+<a href="https://karim-hamada.lovable.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -27,9 +27,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -47,22 +44,8 @@ My focus is not only writing code or creating charts, but also understanding the
 - Create visual reports that explain trends and patterns.
 - Turn data into insights that help people make smarter decisions.
 
-</td>
-<td width="38%" valign="top">
 
 
-
-<a href="https://wa.link/9ne13x">
-  <img src="https://img.shields.io/badge/Chat%20With%20Me-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="[https://kairmhamada.lovable.app](https://karim-hamada.lovable.app)">
-  <img src="https://img.shields.io/badge/Open%20Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
